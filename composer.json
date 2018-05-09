@@ -1,0 +1,12 @@
+{
+    "name": "mdshi/www",
+    "authors": [
+        {
+            "name": "hgzou",
+            "email": "hgzou@51tywy.com"
+        }
+    ],
+    "require": {
+	 "hprose/hprose": ">=2.0.0"
+	}
+}
